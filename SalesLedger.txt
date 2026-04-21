@@ -19,7 +19,7 @@ Date       | Vendor                  | Amount
 2025-12-02 | Quantum Leap Inc        | $3,650.00
 2025-12-16 | Redwood Analytics       | $8,750.00
 2026-01-08 | Summit Peak Solutions   | $5,500.00
-2026-01-22 | Tidal Wave Marketing    | $2,975.00
+2026-01-22 | Ericas Birthday         | $2,975.00
 2026-02-05 | Unified Bridge Corp     | $9,100.00
 2026-02-19 | Vanguard Systems        | $4,325.00
 2026-03-04 | Westport Consulting     | $6,600.00
