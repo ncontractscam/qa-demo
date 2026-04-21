@@ -1,5 +1,6 @@
 Date       | Vendor                  | Amount
 -----------|-------------------------|----------
+Ashley L's change
 2025-04-03 | Acme Corp               | $4,200.00
 2025-04-17 | Blue Sky Solutions      | $1,850.00
 2025-05-08 | Cornerstone LLC         | $9,500.00
