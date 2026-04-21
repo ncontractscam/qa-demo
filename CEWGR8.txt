@@ -1,0 +1,28 @@
+Date       | Vendor                  | Amount
+-----------|-------------------------|----------
+2025-04-03 | Acme Corp               | $4,200.00
+2025-04-17 | Blue Sky Solutions      | $1,850.00
+2025-05-08 | Cornerstone LLC         | $9,500.00
+2025-05-22 | Delta Dynamics          | $3,375.00
+2025-06-05 | Evergreen Partners      | $6,100.00
+2025-06-19 | Falcon Ridge Consulting | $2,750.00
+2025-07-02 | GreenPath Technologies  | $8,400.00
+2025-07-28 | Harbor Light Media      | $1,225.00
+2025-08-11 | Ironclad Systems        | $5,980.00
+2025-08-25 | Jade River Logistics    | $4,650.00
+2025-09-09 | Keystone Advisors       | $7,300.00
+2025-09-23 | Luminary Digital        | $3,100.00
+2025-10-06 | Meridian Group          | $6,875.00
+2025-10-20 | Northstar Ventures      | $2,400.00
+2025-11-04 | Oakwood Enterprises     | $11,200.00
+2025-11-18 | Pinnacle Software       | $4,900.00
+2025-12-02 | Quantum Leap Inc        | $3,650.00
+2025-12-16 | Redwood Analytics       | $8,750.00
+2026-01-08 | Summit Peak Solutions   | $5,500.00
+2026-01-22 | Tidal Wave Marketing    | $2,975.00
+2026-02-05 | Unified Bridge Corp     | $9,100.00
+2026-02-19 | Vanguard Systems        | $4,325.00
+2026-03-04 | Westport Consulting     | $6,600.00
+2026-03-18 | Xenith Labs             | $3,850.00
+2026-04-01 | Yellowstone Partners    | $7,200.00
+2026-04-14 | Zenith Dynamics         | $5,050.00
